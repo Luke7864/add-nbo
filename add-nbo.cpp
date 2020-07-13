@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	uint32_t num2;
 	uint32_t sum;
 
-	if (argc < 2){
+	if (argc < 3){
 		printf("At least 2 argvs needed\n");
 		return 0;
 	}
